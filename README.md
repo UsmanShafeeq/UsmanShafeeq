@@ -2,9 +2,9 @@
 
 ## Hello, I'm Usman Shafeeq 👋
 
-**🎓 MS in AI** | **📊 Data Science & Machine Learning Expert** | **🌐 Full-Stack Developer** | **🔬 Global Research Contributor** | **🌟 Tech Enthusiast**
+**🎓 MS in AI** | **📊 Data Science & Machine Learning Expert** | **🌐 Full-Stack Developer** | **🔬 Global Research Contributor** | **🌍 Computer Networking & Cisco Enthusiast**
 
-I’m a dynamic and passionate professional specializing in machine learning, data science, and full-stack development. My journey involves innovative problem-solving, research-driven insights, and impactful technology solutions. Explore my work, engage with my projects, and let’s connect!
+I’m a dynamic and passionate professional specializing in machine learning, data science, full-stack development, and computer networking. My journey involves innovative problem-solving, research-driven insights, and impactful technology solutions. Explore my work, engage with my projects, and let’s connect!
 
 ---
 
@@ -22,12 +22,16 @@ Predictive modeling using state-of-the-art classifiers to address gestational di
 ### **🌐 [Personal Portfolio](https://github.com/UsmanShafeeq/Portfolio)**
 An interactive portfolio demonstrating my expertise in full-stack development, featuring React, Django, and REST APIs.
 
+### **🖧 [Network Design for MediLog360](https://github.com/UsmanShafeeq/Network-Design-MediLog360)**
+A comprehensive network design project using Cisco Packet Tracer, configuring routers, switches, VLANs, VPNs, and access control policies for secure inter-site communication.
+
 ---
 
 ## 🌱 Currently Exploring
 
 - **🔍 Deep Learning:** Mastering advanced neural network architectures and applications in AI.
 - **💻 Big Data Technologies:** Gaining expertise in Hadoop and Spark for large-scale data analytics.
+- **🖧 Network Automation:** Exploring automation techniques using Python with Cisco devices.
 - **🎨 Frontend Development:** Perfecting skills in HTML, CSS, JavaScript, and modern frontend frameworks.
 
 ---
@@ -37,6 +41,7 @@ An interactive portfolio demonstrating my expertise in full-stack development, f
 - **🧠 Advanced ML Algorithms:** Innovating and enhancing machine learning models for superior accuracy and efficiency.
 - **📊 Data Science Techniques:** Applying cutting-edge methodologies for data analysis and transformation.
 - **🔐 Network Security:** Enhancing network configurations and security protocols for robust and secure systems.
+- **🌐 Network Design:** Creating scalable and secure network infrastructures using Cisco technologies and industry best practices.
 
 ---
 
@@ -55,8 +60,11 @@ An interactive portfolio demonstrating my expertise in full-stack development, f
 - **Libraries:** TensorFlow, PyTorch, Scikit-Learn
 - **Tools:** Jupyter Notebooks, Pandas, NumPy
 
-### **Networking & Security**
-- **Technologies:** VLANs, VPNs, Network Security Protocols
+### **Computer Networking & Cisco**
+- **Networking Protocols:** TCP/IP, OSPF, EIGRP, BGP
+- **Cisco Technologies:** VLANs, VPNs, STP, HSRP, Cisco IOS Configuration
+- **Network Security:** Firewalls, ACLs, Port Security, VPN
+- **Tools:** Cisco Packet Tracer, Wireshark, pfSense, SonicWall
 
 ---
 
@@ -80,7 +88,7 @@ An interactive portfolio demonstrating my expertise in full-stack development, f
 
 - **Email:** [usmanshafeeqit@gmail.com](mailto:usmanshafeeqit@gmail.com)
 - **LinkedIn:** [linkedin.com/in/usmanshafeeq](https://linkedin.com/in/usmanshafeeq)
-- **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Usman_Shafeeq) *(if applicable)*
+- **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Usman_Shafeeq)
 
 ---
 
@@ -88,8 +96,8 @@ An interactive portfolio demonstrating my expertise in full-stack development, f
 
 - [**Understanding Machine Learning Model Evaluation Metrics**](https://medium.com/@usmanshafeeq/understanding-machine-learning-model-evaluation-metrics) - An advanced guide on evaluating machine learning models with practical examples.
 - [**Data Cleaning Techniques for Better Insights**](https://medium.com/@usmanshafeeq/data-cleaning-techniques-for-better-insights) - Proven strategies for effective data cleaning and its impact on data analysis.
+- [**VLAN Configuration and Management Best Practices**](https://medium.com/@usmanshafeeq/vlan-configuration-best-practices) - A comprehensive guide to setting up and managing VLANs using Cisco switches.
 
 ---
 
 **Thank you for visiting my GitHub profile!** I’m eager to collaborate on innovative projects and contribute to exciting research. Let’s connect and build something extraordinary together! 🚀
-
