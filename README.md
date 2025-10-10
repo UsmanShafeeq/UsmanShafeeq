@@ -2,102 +2,115 @@
 
 ## Hello, I'm Usman Shafeeq 👋
 
-**🎓 MS in AI** | **📊 Data Science & Machine Learning Expert** | **🌐 Full-Stack Developer** | **🔬 Global Research Contributor** | **🌍 Computer Networking & Cisco Enthusiast**
+**🎓 MS in AI** | **🤖 AI & Machine Learning Developer** | **🌐 Full-Stack Developer (Django + React)** | **🎨 Frontend Designer (Tailwind CSS + Material UI)** | **🧠 AI Agent Innovator**
 
-I’m a dynamic and passionate professional specializing in machine learning, data science, full-stack development, and computer networking. My journey involves innovative problem-solving, research-driven insights, and impactful technology solutions. Explore my work, engage with my projects, and let’s connect!
+I’m passionate about building **AI-powered applications** using **Python, Django, React, and modern UI frameworks**.  
+My goal is to integrate **machine learning, intelligent agents, and scalable web systems** to create meaningful digital experiences.
+
+Explore my top projects below and discover how I blend **AI, data, and design** to build intelligent, efficient, and interactive software.
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Highlighted Projects
 
-### **🔬 [Advanced Machine Learning Project](https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project)**
-A cutting-edge initiative showcasing advanced machine learning algorithms and real-world deployment. Dive into complex models and solutions!
+### **🤖 [Advanced Machine Learning Project](https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project)**
+Exploration of advanced ML algorithms and model performance analysis using Python and Jupyter.  
+Focus: supervised/unsupervised learning, model optimization, and visualization.
 
-### **📈 [Cancer Dataset Analysis](https://github.com/UsmanShafeeq/Cancer-Dataset-Analysis)**
-In-depth analysis and visualization of cancer risk and mortality rates. Utilizes Python and sophisticated data science techniques to drive actionable insights.
+---
 
-### **👶 [Gestational Diabetes Prediction](https://github.com/UsmanShafeeq/Gestational-Diabetes-Prediction)**
-Predictive modeling using state-of-the-art classifiers to address gestational diabetes. Leveraging advanced analytics for better healthcare outcomes.
+### **🧠 [Small LLM Project](https://github.com/UsmanShafeeq/Small-LLM-Project)**
+Custom fine-tuned language models and text-generation systems using Transformer architectures.  
+Focus: LLM fundamentals, prompt engineering, and NLP pipelines.
+
+---
+
+### **💡 [SmartML Project](https://github.com/UsmanShafeeq/SmartML-Project)**
+A showcase of machine learning workflows and smart automation using Scikit-Learn, TensorFlow, and data analysis pipelines.
+
+---
+
+### **🩺 [Gestational Diabetes Prediction](https://github.com/UsmanShafeeq/Gestational-Diabetes-Prediction)**
+Data preprocessing, feature selection, and predictive modeling for healthcare insights using ML classification techniques.
+
+---
+
+### **🧬 [Deep Learning Projects](https://github.com/UsmanShafeeq/deep-learning-projects)**
+Deep learning implementations for image classification, NLP, and generative AI tasks with TensorFlow and PyTorch.
+
+---
 
 ### **🌐 [Personal Portfolio](https://github.com/UsmanShafeeq/Portfolio)**
-An interactive portfolio demonstrating my expertise in full-stack development, featuring React, Django, and REST APIs.
+Interactive personal portfolio built with **React**, **Django REST API**, **Tailwind CSS**, and **Material UI**.  
+Focus: responsive UI/UX, backend integration, and API-driven components.
 
-### **🖧 [Network Design for MediLog360](https://github.com/UsmanShafeeq/Network-Design-MediLog360)**
-A comprehensive network design project using Cisco Packet Tracer, configuring routers, switches, VLANs, VPNs, and access control policies for secure inter-site communication.
+---
+
+### **🧩 [Generative AI Developer Roadmap (30 Days)](https://github.com/UsmanShafeeq/Generative_AI_Developer_Roadmap_30Days)**
+A structured roadmap to master **Generative AI**, covering LLMs, embeddings, vector databases, and AI agent development.
+
+---
+
+### **🤝 [AI Agent Assistant (Ongoing)](https://github.com/UsmanShafeeq/AI-Agent-Assistant)**
+Developing an autonomous **AI Agent** using **LangChain, GPT models, and vector memory** for reasoning, context handling, and task automation.
+
+---
+
+### **📘 [Books – Django & Machine Learning](https://github.com/UsmanShafeeq/Books-Django)**  
+A curated collection of notes, code samples, and reference materials for Django and ML learners.
 
 ---
 
 ## 🌱 Currently Exploring
 
-- **🔍 Deep Learning:** Mastering advanced neural network architectures and applications in AI.
-- **💻 Big Data Technologies:** Gaining expertise in Hadoop and Spark for large-scale data analytics.
-- **🖧 Network Automation:** Exploring automation techniques using Python with Cisco devices.
-- **🎨 Frontend Development:** Perfecting skills in HTML, CSS, JavaScript, and modern frontend frameworks.
+- 🧩 **AI Agents** – building intelligent agents with LangChain and GPT integration.  
+- 🧠 **Deep Learning** – improving model interpretability and training pipelines.  
+- 💻 **Full-Stack AI Apps** – connecting Django REST with React frontends.  
+- 🎨 **Modern UI Design** – mastering Tailwind CSS and Material UI for adaptive interfaces.  
 
 ---
 
-## 📝 Research Interests
+## 🛠️ Technical Stack
 
-- **🧠 Advanced ML Algorithms:** Innovating and enhancing machine learning models for superior accuracy and efficiency.
-- **📊 Data Science Techniques:** Applying cutting-edge methodologies for data analysis and transformation.
-- **🔐 Network Security:** Enhancing network configurations and security protocols for robust and secure systems.
-- **🌐 Network Design:** Creating scalable and secure network infrastructures using Cisco technologies and industry best practices.
+### **AI & Machine Learning**
+- **Languages:** Python  
+- **Libraries:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, LangChain  
+- **Areas:** NLP, LLMs, Data Visualization, Agent Systems  
 
----
+### **Full-Stack Development**
+- **Frontend:** React, Tailwind CSS, Material UI  
+- **Backend:** Django, Django REST Framework  
+- **Database:** SQLite, PostgreSQL  
+- **APIs:** RESTful, JSON, Axios Integration  
 
-## 🛠️ Technical Skills
-
-### **Frontend Development**
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS
-
-### **Backend Development**
-- **Languages:** Python, JavaScript (Node.js)
-- **Frameworks:** Django, Flask
-- **APIs:** RESTful, GraphQL
-
-### **Data Science & Machine Learning**
-- **Libraries:** TensorFlow, PyTorch, Scikit-Learn
-- **Tools:** Jupyter Notebooks, Pandas, NumPy
-
-### **Computer Networking & Cisco**
-- **Networking Protocols:** TCP/IP, OSPF, EIGRP, BGP
-- **Cisco Technologies:** VLANs, VPNs, STP, HSRP, Cisco IOS Configuration
-- **Network Security:** Firewalls, ACLs, Port Security, VPN
-- **Tools:** Cisco Packet Tracer, Wireshark, pfSense, SonicWall
+### **Tools**
+- Git & GitHub | VS Code | Jupyter | Docker | API Integration | Agile Workflow  
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Insights
 
-### **📊 GitHub Stats**
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanShafeeq&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-### **📊 Top Languages**
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanShafeeq&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanShafeeq&layout=compact&theme=radical)
-
-### **📊 Contributions Graph**
-![Contributions Graph](https://github-readme-stats.vercel.app/api/wakatime?username=UsmanShafeeq&theme=radical)
-
-### **📊 Project Languages Usage**
-![Languages Usage](https://github-readme-stats.vercel.app/api/pin/?username=UsmanShafeeq&repo=Advanced-Machine-Learning-Project&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-- **Email:** [usmanshafeeqit@gmail.com](mailto:usmanshafeeqit@gmail.com)
-- **LinkedIn:** [linkedin.com/in/usmanshafeeq](https://linkedin.com/in/usmanshafeeq)
-- **ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Usman_Shafeeq)
+- **📧 Email:** [usmanshafeeqit@gmail.com](mailto:usmanshafeeqit@gmail.com)  
+- **💼 LinkedIn:** [linkedin.com/in/usmanshafeeq](https://linkedin.com/in/usmanshafeeq)  
+- **🔬 ResearchGate:** [ResearchGate Profile](https://www.researchgate.net/profile/Usman_Shafeeq)  
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Featured Articles
 
-- [**Understanding Machine Learning Model Evaluation Metrics**](https://medium.com/@usmanshafeeq/understanding-machine-learning-model-evaluation-metrics) - An advanced guide on evaluating machine learning models with practical examples.
-- [**Data Cleaning Techniques for Better Insights**](https://medium.com/@usmanshafeeq/data-cleaning-techniques-for-better-insights) - Proven strategies for effective data cleaning and its impact on data analysis.
-- [**VLAN Configuration and Management Best Practices**](https://medium.com/@usmanshafeeq/vlan-configuration-best-practices) - A comprehensive guide to setting up and managing VLANs using Cisco switches.
+- [🧠 Building AI Agents with LangChain and GPT Models](https://medium.com/@usmanshafeeq/building-ai-agent-langchain)  
+- [⚙️ Integrating AI with Django Applications](https://medium.com/@usmanshafeeq/ai-django-integration)  
+- [🎨 Designing React Dashboards with Material UI](https://medium.com/@usmanshafeeq/react-material-ui-dashboard)  
 
 ---
 
-**Thank you for visiting my GitHub profile!** I’m eager to collaborate on innovative projects and contribute to exciting research. Let’s connect and build something extraordinary together! 🚀
+**Thank you for visiting my GitHub profile!**  
+I’m focused on advancing **AI development, full-stack solutions, and agent-based intelligence**.  
+Let’s collaborate to create something truly intelligent and impactful. 🚀
