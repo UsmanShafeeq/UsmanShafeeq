@@ -1,66 +1,71 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&color=2596be&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+Shafeeq!;AI+%26+Full+Stack+Developer;React+%7C+Django+%7C+Tailwind+%7C+AI+Agents;Building+Intelligent+Web+Solutions+🚀" alt="Typing intro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3500&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usman+Shafeeq!;AI+%26+Full+Stack+Developer;React+%7C+Django+%7C+Tailwind+%7C+AI+Agents;Building+Intelligent+Web+Solutions+🚀" alt="Typing intro">
 </h1>
 
 <p align="center">
-  🌍 Based in Pakistan & Open to Remote Collaboration  
-  🎯 Passionate about creating <b>AI-driven web applications</b> with <b>React, Django, and Machine Learning</b>.  
+  <img src="https://img.shields.io/badge/Location-Pakistan-0A0A0A?style=for-the-badge&logo=google-earth&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20Collaboration-000000?style=for-the-badge&logo=Handshake&logoColor=F1C40F"/>
+</p>
+
+<p align="center">
+  ⚡ Passionate about crafting <b>AI-driven web experiences</b> that combine <b>intelligence, design, and performance</b>.  
 </p>
 
 ---
 
 ## 🧠 About Me
-I’m an **AI & Full-Stack Developer** dedicated to blending **intelligence with design**.  
-My focus is on building **modern, responsive, and data-driven web applications** powered by **AI agents**, **machine learning**, and seamless **Django + React** integration.
 
-💡 *Turning ideas into intelligent, visually stunning, and scalable digital products.*
+I’m an **AI & Full-Stack Developer** blending **cutting-edge artificial intelligence** with **modern web design**.  
+I specialize in **React + Django** ecosystems, creating visually engaging, data-driven, and intelligent applications.  
+
+💡 *Turning visionary ideas into AI-powered, scalable, and interactive digital solutions.*
 
 ---
 
 ## ⚙️ Core Expertise
 
-### 🎨 Frontend Development
+### 🖥️ Frontend Development
 - **React.js**, **Next.js**
 - **Tailwind CSS**, **Material UI**
-- Responsive Design & Modern UI/UX
-- API Integration with Django REST
+- Responsive UI/UX Design  
+- Seamless Django REST API Integration
 
-### 🧩 Backend Development
+### ⚙️ Backend Development
 - **Django**, **Django REST Framework**
 - **Python**, **PostgreSQL**, **SQLite**
-- Authentication, API design, and secure data management
+- Authentication • Data Security • API Engineering
 
 ### 🤖 Artificial Intelligence
 - Machine Learning (Scikit-learn, TensorFlow, PyTorch)
-- AI Agent Development (LangChain, OpenAI API)
-- Data Preprocessing, Model Deployment, Automation
+- **AI Agent Development** (LangChain, OpenAI API)
+- Intelligent Automation • Model Deployment • Data Science
 
 ---
 
 ## 💼 Featured Projects
 
-| 🌟 Project | 🧠 Description | 🛠️ Tech Stack |
+| 🚀 Project | 💡 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
-| [🛍️ **My Shop**](https://github.com/usmanshafeeq/my-shop) | E-commerce platform built with Django REST API and React frontend using Tailwind CSS. | React, Django, Tailwind CSS |
-| [🧠 **Small LLM Project**](https://github.com/usmanshafeeq/Small-LLM-Project) | Lightweight AI language model experiments using Python and Transformers. | Python, OpenAI, LangChain |
-| [🤖 **Alkawthar Voicebot**](https://github.com/usmanshafeeq/alkawthar-voicebot) | AI-powered voice assistant integrating OpenAI API for real-time response. | Python, OpenAI API, SpeechRecognition |
-| [📚 **Books Django**](https://github.com/usmanshafeeq/Books-Django) | Full-featured web app for managing and viewing books with elegant UI. | Django, Material UI, Bootstrap |
-| [📊 **SmartML Project**](https://github.com/usmanshafeeq/SmartML-Project) | Machine Learning automation and model evaluation dashboard. | Python, Scikit-learn, React |
+| [🛍️ **My Shop**](https://github.com/usmanshafeeq/my-shop) | AI-ready e-commerce system using Django REST & React with Tailwind CSS. | React, Django, Tailwind |
+| [🧠 **Small LLM Project**](https://github.com/usmanshafeeq/Small-LLM-Project) | Custom lightweight language model experiments with LangChain. | Python, OpenAI, LangChain |
+| [🎙️ **Alkawthar Voicebot**](https://github.com/usmanshafeeq/alkawthar-voicebot) | Real-time voice assistant powered by OpenAI API & speech recognition. | Python, OpenAI, SpeechRecognition |
+| [📚 **Books Django**](https://github.com/usmanshafeeq/Books-Django) | Full-featured Django app for managing books with Material UI. | Django, Material UI |
+| [📊 **SmartML Project**](https://github.com/usmanshafeeq/SmartML-Project) | Machine learning dashboard for automation and model analysis. | Python, React, Scikit-learn |
 
 ---
 
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=44B78B"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=007FFF"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=412991"/>
 </p>
 
 ---
@@ -68,12 +73,12 @@ My focus is on building **modern, responsive, and data-driven web applications**
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usmanshafeeq&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanshafeeq&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=usmanshafeeq&show_icons=true&theme=radical&bg_color=000000&title_color=00FFFF&icon_color=F1C40F&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=usmanshafeeq&theme=radical&background=000000&fire=F1C40F&ring=00FFFF&currStreakLabel=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanshafeeq&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanshafeeq&layout=compact&theme=radical&bg_color=000000&title_color=00FFFF&text_color=FFFFFF" />
 </p>
 
 ---
@@ -83,17 +88,17 @@ My focus is on building **modern, responsive, and data-driven web applications**
 🎓 **MS in Artificial Intelligence**  
 🎓 **Master’s in Computer Science**  
 🏅 **Kaggle Certifications:** Machine Learning, Data Visualization, Python  
-📜 **Generative AI Developer Roadmap – 30 Days** (AI Agents, LangChain, OpenAI Integration)
+📜 **Generative AI Developer Roadmap (30 Days)** — *LangChain, OpenAI, AI Agents*
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Collaboration Opportunities
 
-💬 I’m open to collaborations in:
-- AI-driven Web Applications  
-- Full-Stack Django + React Projects  
-- AI Agent Development with LangChain & OpenAI  
-- Machine Learning and Predictive Modeling  
+💬 Open to collaborate on:  
+- AI-Powered Web Apps with Django + React  
+- Custom AI Agents for Automation & Chat Systems  
+- Data-Driven Machine Learning Applications  
+- Innovative SaaS Platforms with Intelligent Features  
 
 📫 **Email:** [usmanshafeeqit@gmail.com](mailto:usmanshafeeqit@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/usmanshafeeq](https://linkedin.com/in/usmanshafeeq)  
@@ -101,8 +106,10 @@ My focus is on building **modern, responsive, and data-driven web applications**
 
 ---
 
-<h3 align="center">✨ “Code. Create. Innovate.” ✨</h3>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/✨%20Code.%20Create.%20Innovate.%20✨-000000?style=for-the-badge&labelColor=000000&color=00FFFF&logo=github&logoColor=F1C40F" />
+</h3>
 
 <p align="center">
-  ⭐ If you enjoy my work, consider giving my repositories a star to support continuous innovation.
+  ⭐ If my work inspires you, consider starring my repositories — it fuels innovation 🔥
 </p>
