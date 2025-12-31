@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Usman Shafeeq</h1>
@@ -7,22 +7,22 @@
   <strong>Machine Learning | Data Science | React & Tailwind Developer</strong>
 </p>
 <p align="center">
-  Transforming data into insights, building interactive web apps, and deploying ML models that make a real difference.
+  Transforming data into insights, building interactive web apps, and deploying ML models that make a real impact. 🚀
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌈 About Me
 
-- 💻 Passionate **Machine Learning, Data Science & Full Stack Developer**  
+- 💻 Passionate **ML, Data Science & Full Stack Developer**  
 - ⚡ Experienced in **React, TailwindCSS, Python, Flask, FastAPI, PyTorch, Docker**  
-- 📊 Skilled in **Data Cleaning, Analysis, Visualization, and Predictive Modeling**  
-- 🌍 Open to collaborations globally  
-- 🎯 Goal: Contribute to AI & ML projects that solve real-world problems  
+- 📊 Skilled in **Data Cleaning, Visualization, Predictive Modeling**  
+- 🌍 Open to global collaboration  
+- 🎯 Goal: Build AI-powered projects and modern web apps  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,47 +43,43 @@
 
 ---
 
-## 📂 Top Projects
+## 🚀 Projects
 
-### [Advanced Machine Learning Project](https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project)
-- 🚀 Implemented **advanced ML models** and predictive analytics  
-- 📝 **Language:** Jupyter Notebook | ⭐ 0 | 🛠️ Open Issues: 0  
+<div align="center">
 
-### [LLM Projects](https://github.com/UsmanShafeeq/LLM-Projects)
-- 🤖 Experiments and projects with **Large Language Models**  
-- 📝 **Language:** Jupyter Notebook | ⭐ 0 | 🛠️ Open Issues: 0  
+<a href="https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project" target="_blank">
+  <img src="https://img.shields.io/badge/Advanced_ML_Project-Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+</a>
+<a href="https://github.com/UsmanShafeeq/LLM-Projects" target="_blank">
+  <img src="https://img.shields.io/badge/LLM_Projects-Jupyter-purple?style=for-the-badge&logo=jupyter&logoColor=white" />
+</a>
+<a href="https://github.com/UsmanShafeeq/online-fashion-store" target="_blank">
+  <img src="https://img.shields.io/badge/Online_Fashion_Store-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://github.com/UsmanShafeeq/my-ecommerce" target="_blank">
+  <img src="https://img.shields.io/badge/My_E-commerce-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="https://github.com/UsmanShafeeq/devops-project" target="_blank">
+  <img src="https://img.shields.io/badge/DevOps_Project-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
 
-### [Online Fashion Store](https://github.com/UsmanShafeeq/online-fashion-store)
-- 🛍️ **React + TailwindCSS frontend** for a fashion e-commerce store  
-- 📝 **Language:** TypeScript | ⭐ 0 | 🛠️ Open Issues: 0  
-
-### [My E-commerce](https://github.com/UsmanShafeeq/my-ecommerce)
-- 💳 Full-featured **JavaScript e-commerce application**  
-- 📝 **Language:** JavaScript | ⭐ 0 | 🛠️ Open Issues: 0  
-
-### [DevOps Project](https://github.com/UsmanShafeeq/devops-project)
-- ⚙️ Focused on **DevOps practices, CI/CD, Docker & Deployment**  
-- 📝 **Language:** Not specified | ⭐ 0 | 🛠️ Open Issues: 0  
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UsmanShafeeq&show_icons=true&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsmanShafeeq&show_icons=true&count_private=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanShafeeq&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📝 Recent Activity
-
-- **Dec 31, 2025:** Pushed to [Advanced Machine Learning Project](https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project)  
-- **Dec 27, 2025:** Pushed to [LLM Projects](https://github.com/UsmanShafeeq/LLM-Projects)  
-- **Dec 27, 2025:** Created branch `main` in [LLM Projects](https://github.com/UsmanShafeeq/LLM-Projects)  
-- **Dec 12, 2025:** Pushed to [Online Fashion Store](https://github.com/UsmanShafeeq/online-fashion-store)  
-- **Dec 26, 2025:** Pushed to [Advanced Machine Learning Project](https://github.com/UsmanShafeeq/Advanced-Machine-Learning-Project)  
-
----
-
-## 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/usmanshafeeq" target="_blank">
